@@ -9,7 +9,7 @@ pass or fail your builds depending on the state of your node_modules dependency 
 
 - [Read the docs](https://docs.nodesource.com/ncm_v2)
 - [Learn more about NodeSource Certified Modules](https://nodesource.com/products/certified-modules)
-- [__Sign up for an account to get started!__](https://accounts.nodesource.com/)
+- [__Sign up for a professional tier account to get started!__](https://accounts.nodesource.com/)
 
 ## CICD
 
