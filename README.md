@@ -21,6 +21,8 @@ The following CICD systems have been set up:
 | [AppVeyor](https://www.appveyor.com) | Windows | [appveyor.yml](appveyor.yml) | [1.0.7](https://ci.appveyor.com/project/juliangruber/ncm-ci-example/builds/19395094) | [1.0.10](https://ci.appveyor.com/project/juliangruber/ncm-ci-example/builds/19395134) |
 | [CircleCI](https://circleci.com) | Linux | [.circleci/config.yml](.circleci/config.yml) | [#4](https://circleci.com/gh/nodesource/ncm-ci-example/4)                            | [#6](https://circleci.com/gh/nodesource/ncm-ci-example/6) |
 
+Remember that you will need to set `NCM_TOKEN=xxx` as an environment variable, which should not be made visible to the public. For instruction on obtaining a token, [read the docs](https://docs.nodesource.com/ncm_v2).
+
 ## Output
 
 In case there are problematic dependencies in your tree, ncm-ci will list them out:
