@@ -1,0 +1,10 @@
+{
+  "name": "ncm-ci-example",
+  "private": true,
+  "version": "0.0.0",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

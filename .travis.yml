@@ -1,0 +1,7 @@
+sudo: false
+language: node_js
+node_js:
+  - latest
+script:
+  - npm test
+  - npx @nodesource/ncm-ci

@@ -1,0 +1,6 @@
+install:
+  - ps: Install-Product node ''
+test_script:
+  - npm test
+  - npx @nodesource/ncm-ci
+build: off
