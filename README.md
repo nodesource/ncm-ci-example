@@ -25,4 +25,4 @@ The following CICD systems have been set up:
 
 This project's #master branch passes ncm-ci, however an example [Pull request #1](https://github.com/nodesource/ncm-ci-example/pull/1) has been set up to demonstrate how ncm-ci will fail your build when vulnerable or noncompliant dependencies are introduced.
 
-<img alt='pull request screenshot' src='screenshot.png' width=600 />
+<img alt='pull request screenshot' src='images/pull-request.png' width=600 />
