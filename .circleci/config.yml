@@ -4,6 +4,7 @@ jobs:
     docker:
       - image: node:10.0
     steps:
+      - checkout
       - run: npm install
       - run: npm test
       - run: npx @nodesource/ncm-ci
