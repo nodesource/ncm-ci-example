@@ -7,7 +7,11 @@
 This project is set up with [NCM CI](https://github.com/nodesource/ncm-ci) on various CICD systems to demonstrate how it will
 pass or fail your builds depending on the state of your node_modules dependency tree.
 
-## CICD systems
+- [__Read the docs__](https://docs.nodesource.com/ncm_v2)
+- [__Learn more about NodeSource Certified Modules__](https://nodesource.com/products/certified-modules)
+- [__Sign up for an account to get started__](https://accounts.nodesource.com/)
+
+## CICD
 
 The following CICD systems have been set up:
 
